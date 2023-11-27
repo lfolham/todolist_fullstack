@@ -1,4 +1,4 @@
-👨🏼‍💻 Proposal
+👨🏼‍💻 Task
 - Create a Full-stack todo list (Front-end/Back-end);
 - Create a MySQL database to feed the front-end;
 - Create a front-end to manipulate the database;
